@@ -103,17 +103,19 @@ let error = false;
 // const display = document.querySelector('.display');
 // const button7 = document.getElementById('7');
 
-buttonNum7.addEventListener('click', function(){ //nothing is happening.... whyyyyyyy?????
-    display.innerText += '7';//nothing is happening.... whyyyyyyy?????
+buttonNum7.addEventListener('click', function(){ 
+    displayElement.innerText += '7';
 })
 
-console.log(buttonNum7) //nothing is happening.... whyyyyyyy?????
+console.log(buttonNum7);
+console.dir(buttonNum7);
+//Also, now when I click on the #7 button, it registers 7 in the display! Yay!
 
 
 
 
 
-// The initial Event Listeners that I tried that failed:
+// The initial Event Listeners trys that failed:
 // buttonElements.addEventListener('click', function() { 
 //     console.log('Button was clicked!');
 //   });
@@ -128,10 +130,19 @@ console.log(buttonNum7) //nothing is happening.... whyyyyyyy?????
 // do a function that adds - add num1 and num2 )
 
 
+
+
 /*-------------------------------- Functions --------------------------------*/
 
 // Functions are blocks of code you can reuse. They do a specific job when you call them.
-//Functions/Actions that need to happen so that the code and clicks can be read
+// e.g. 
+// function greet() {
+//   console.log('Hello!');
+// }
+// greet(); 
 
-//I want to create a function that takes two numbers and an operator 
-//and then calculates the total
+//Delete this below
+// This function takes 2 numbers and an operator, then calculates the total
+
+// Functions/Actions that need to happen so that code and clicks can be read 
+
