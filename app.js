@@ -1,9 +1,9 @@
-// <!-- RE-REVIEWED 4/27/25 -->
+// RE-REVIEWED 4/27/25 
 
-//@Alara, I don't fully get how all these sections work together; thus, I may have added
-//more steps than I needed to. I mostly don't get how you can create a functioning calculator
-//withouth first defining each number. Is there a way to create a calculator w/o defining 
-//each number???
+// RE-REVIEWED 5/14/25
+
+// I had created this repo to just send instructor code without all the notes that were helping me from the other repo
+// Just the code so it's cleaner & so I can copy and paste this repo with questions for teaching assistant.
 
 /*------------------------ Cached Element References ------------------------*/
 
