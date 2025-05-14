@@ -1,6 +1,6 @@
 // RE-REVIEWED 4/27/25 
 
-// RE-REVIEWED 5/14/25
+// RE-REVIEWED 5/14/25 -- Also, tweaked calculator so color coded and more fun!
 
 // I had created this repo to just send instructor code without all the notes that were helping me from the other repo
 // Just the code so it's cleaner & so I can copy and paste this repo with questions for teaching assistant.
